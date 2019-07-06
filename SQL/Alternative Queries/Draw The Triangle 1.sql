@@ -1,3 +1,5 @@
+-- MS SQL Server
+
 DECLARE @quantidade INT = 20;
 DECLARE @i INT = 0;
 DECLARE @j INT = 0;
